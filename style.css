@@ -131,6 +131,8 @@ section {
     cursor: pointer;
 }
 
-.controls #reset {
+.work-icons {
     display: none;
+    gap: 3rem;
 }
+
